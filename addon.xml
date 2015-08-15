@@ -55,7 +55,7 @@
 <addon id="plugin.video.SportsDonkey"
        name="Sports Donkey"
        version="2.0.4"
-       provider-name="MetalKettle">
+       provider-name="Sports Donkey">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="1.1.0"/>
@@ -71,7 +71,6 @@
     <platform>all</platform>
   </extension>
 </addon>
-
 <addon id="repository.demR" name="Dem Guyz Repo" version="1.0.1" provider-name="Dem Guyz">
 	<extension point="xbmc.addon.repository" name="Dem Guyz Repo">
 		<info compressed="false">https://raw.githubusercontent.com/demguyz/demR/master/addons.xml</info>
