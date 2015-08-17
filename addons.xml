@@ -13,9 +13,8 @@
         <language></language>
         <description lang="en">NetfliXBMC - Unofficial Netflix Add-on (Win/OSX/Linux)</description>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <source>https://github.com/AddonScriptorDE/plugin.video.netflixbmc</source>
-        <forum>http://forum.xbmc.org/showthread.php?tid=178693</forum>
-        <email>AddonScriptorDE at yahoo dot de</email>
+ 
+
         <website>http://www.netflix.com</website>
     </extension>
 </addon>
