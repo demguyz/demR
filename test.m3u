@@ -1,6 +1,13 @@
 #EXTM3U
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1191
 
 #EXTINF:-1 ,[COLOR orange] Testing New Streams [/COLOR]
 
 #EXTINF:-1, [COLOR green] Discovery HD UK [/COLOR]
 http://webjia.tk/fetch.php/37.48.83.131:1935/live/discovery.stream/media_1191.ts?wowzasessionid=1900543783
+#EXTINF:8, [COLOR green] Discovery HD UK [/COLOR]
+http://webjia.tk/fetch.php/37.48.83.131:1935/live/discovery.stream/media_1192.ts?wowzasessionid=1900543783
+#EXTINF:10, [COLOR green] Discovery HD UK [/COLOR]
+http://webjia.tk/fetch.php/37.48.83.131:1935/live/discovery.stream/media_1193.ts?wowzasessionid=1900543783
