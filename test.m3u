@@ -5,7 +5,6 @@
 
 #EXTINF:-1, [COLOR green] DAVE [/COLOR]
 http://204.107.27.250/live/370.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe46bec4ca0c931db639d95bd8bd0950e1739bfcf29b1b4912ba3a6342abdfc20d726e9278ebeb747a3b038d44807a0a2153ce6fb3484540732c4c62e7057ee07e75680f4d04cf7c3a9291a3249ed9affccec2b6900352a020c2d8799b724f5d1409b1d5f2ce9d324ddfb04800661d9589f8eb0a32987813a899793f87f2e12ded7980164bc140ca44f023536d2c7671f8#.m3u8
-#EXTINF:8, [COLOR green] Discovery HD UK [/COLOR]
-http://webjia.tk/fetch.php/37.48.83.131:1935/live/discovery.stream/media_1192.ts?wowzasessionid=1900543783
-#EXTINF:10, [COLOR green] Discovery HD UK [/COLOR]
-http://webjia.tk/fetch.php/37.48.83.131:1935/live/discovery.stream/media_1193.ts?wowzasessionid=1900543783
+#EXTINF:-1,[COLOR orange]Discovery Channel HD [/COLOR]
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.253:5000
